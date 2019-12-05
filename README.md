@@ -6,6 +6,8 @@
 
 [Weight Converter App](https://anvolkravt.github.io/Weight-Converter-App/)
 
+Booking site: [Details](https://anvolkravt.github.io/booking/dist/details.html) • [Profile Settings](https://anvolkravt.github.io/booking/dist/profile_settings.html) • [Sign up](https://anvolkravt.github.io/booking/dist/sign_up.html)  • [Onboarding](https://anvolkravt.github.io/booking/dist/onboarding.html) • [Modal window](https://anvolkravt.github.io/booking/dist/modal_window.html)
+
 [Hexagons](https://anvolkravt.github.io/Hexal/hexal.html)
 
 [Parallax Website](https://anvolkravt.github.io/Parallax-Website/)
