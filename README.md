@@ -2,6 +2,8 @@
 
 [YouTube Client](https://anvolkravt.github.io/temporary/dist/index.html)
 
+[Palette](https://anvolkravt.github.io/Palette/)
+
 [Neutron Mail](https://anvolkravt.github.io/Neutron-Mail/)
 
 [Weight Converter App](https://anvolkravt.github.io/Weight-Converter-App/)
