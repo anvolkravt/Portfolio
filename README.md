@@ -4,11 +4,13 @@
 
 [Booking site](https://github.com/anvolkravt/booking)
 
-[Palette](https://anvolkravt.github.io/Palette/)
+[Calculator](https://anvolkravt.github.io/Calculator/)
 
 [Neutron Mail](https://anvolkravt.github.io/Neutron-Mail/)
 
 [Piano](https://github.com/anvolkravt/Piano)
+
+[Palette](https://anvolkravt.github.io/Palette/)
 
 [Weight Converter App](https://anvolkravt.github.io/Weight-Converter-App/)
 
