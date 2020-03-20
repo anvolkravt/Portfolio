@@ -6,6 +6,8 @@
 
 [Quiz (Symfony)](https://github.com/anvolkravt/something)
 
+[News Responsive](https://anvolkravt.github.io/News-Responsive-/)
+
 [Booking site](https://github.com/anvolkravt/booking)
 
 [Calculator](https://anvolkravt.github.io/Calculator/)
