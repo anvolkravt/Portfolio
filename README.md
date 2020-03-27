@@ -10,6 +10,8 @@
 
 [Booking site](https://github.com/anvolkravt/booking)
 
+[Products] (https://anvolkravt.github.io/BS-Test/)
+
 [Calculator](https://anvolkravt.github.io/Calculator/)
 
 [Neutron Mail](https://anvolkravt.github.io/Neutron-Mail/)
