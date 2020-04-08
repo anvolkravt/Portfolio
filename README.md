@@ -1,6 +1,8 @@
 # Portfolio
 
-[Card Matching Game](https://github.com/anvolkravt/Card-Matching-Game/blob/master/README.md)
+[Card Matching Game](https://anvolkravt.github.io/Card-Matching-Game/)
+
+[Tic Tac Toe Game](https://anvolkravt.github.io/Tic-Tac-Toe/)
 
 [YouTube Client](https://anvolkravt.github.io/YouTube/dist/index.html)
 
@@ -16,7 +18,7 @@
 
 [Neutron Mail](https://anvolkravt.github.io/Neutron-Mail/)
 
-[Piano](https://github.com/anvolkravt/Piano)
+[Piano](https://anvolkravt.github.io/Piano/)
 
 [Palette](https://anvolkravt.github.io/Palette/)
 
