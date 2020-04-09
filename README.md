@@ -6,6 +6,8 @@
 
 [YouTube Client](https://anvolkravt.github.io/YouTube/dist/index.html)
 
+[Password Generator](https://anvolkravt.github.io/Password-Generator/)
+
 [Company site](https://anvolkravt.github.io/Grizzly/dist/html/index.html)
 
 [News Responsive](https://anvolkravt.github.io/News-Responsive-/)
