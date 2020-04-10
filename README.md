@@ -8,6 +8,8 @@
 
 [Password Generator](https://anvolkravt.github.io/Password-Generator/)
 
+[Quiz](https://anvolkravt.github.io/Quiz/)
+
 [Company site](https://anvolkravt.github.io/Grizzly/dist/html/index.html)
 
 [News Responsive](https://anvolkravt.github.io/News-Responsive-/)
